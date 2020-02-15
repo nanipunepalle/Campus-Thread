@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>628679798823-fs5etbrbj8m26gkf2met39cra240vfd1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.628679798823-fs5etbrbj8m26gkf2met39cra240vfd1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHbfP1T6ETx0-BbNJN95VdjEduusZsiDs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628679798823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lalith.CampusThreadUpdated</string>
+	<key>PROJECT_ID</key>
+	<string>updated-campus-thread</string>
+	<key>STORAGE_BUCKET</key>
+	<string>updated-campus-thread.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628679798823:ios:df721ba3c510b638309e02</string>
+	<key>DATABASE_URL</key>
+	<string>https://updated-campus-thread.firebaseio.com</string>
+</dict>
+</plist>
